@@ -1,4 +1,4 @@
-package com.example.demo.adapter.out.persistence
+package com.example.demo.account.adapter.out.persistence
 
 import jakarta.persistence.*
 

@@ -1,5 +1,6 @@
-package com.example.demo.adapter.out.persistence
+package com.example.demo.account.adapter.out.persistence
 
+import com.example.demo.account.adapter.out.persistence.ActivityJpaEntity
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.data.jpa.repository.Query
 import org.springframework.data.repository.query.Param

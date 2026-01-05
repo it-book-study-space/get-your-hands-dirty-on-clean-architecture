@@ -1,4 +1,4 @@
-package com.example.demo.adapter.`in`.web
+package com.example.demo.account.adapter.`in`.web
 
 import com.example.demo.account.applicaiton.port.`in`.SendMoneyCommand
 import com.example.demo.account.applicaiton.port.`in`.SendMoneyUseCase
