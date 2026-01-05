@@ -6,10 +6,11 @@ import com.example.demo.account.applicaiton.port.out.AccountLock
 import com.example.demo.account.applicaiton.port.out.LoadAccountPort
 import com.example.demo.account.applicaiton.port.out.UpdateAccountStatePort
 import com.example.demo.common.UseCase
+import jakarta.transaction.Transactional
 import java.time.LocalDateTime
 
 @UseCase
-//@Transactional
+@Transactional
 class SendMoneyService(
     private val loadAccountPort: LoadAccountPort,
     private val accountLock: AccountLock,

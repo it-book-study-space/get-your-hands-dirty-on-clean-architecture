@@ -8,7 +8,7 @@ import java.time.LocalDateTime
 data class ActivityJpaEntity(
     @Id
     @GeneratedValue
-    val id: Long,
+    val id: Long?,
 
     @Column
     val timestamp: LocalDateTime,
