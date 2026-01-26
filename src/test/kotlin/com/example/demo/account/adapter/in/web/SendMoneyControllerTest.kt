@@ -1,7 +1,7 @@
 package com.example.demo.account.adapter.`in`.web
 
-import com.example.demo.account.applicaiton.port.`in`.SendMoneyCommand
-import com.example.demo.account.applicaiton.port.`in`.SendMoneyUseCase
+import com.example.demo.account.application.port.`in`.SendMoneyCommand
+import com.example.demo.account.application.port.`in`.SendMoneyUseCase
 import com.example.demo.account.domain.Account
 import com.example.demo.account.domain.Money
 import org.junit.jupiter.api.DisplayName

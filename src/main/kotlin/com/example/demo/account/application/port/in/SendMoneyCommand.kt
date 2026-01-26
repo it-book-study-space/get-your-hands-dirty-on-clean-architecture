@@ -1,4 +1,4 @@
-package com.example.demo.account.applicaiton.port.`in`
+package com.example.demo.account.application.port.`in`
 
 import com.example.demo.account.domain.Account
 import com.example.demo.account.domain.Money

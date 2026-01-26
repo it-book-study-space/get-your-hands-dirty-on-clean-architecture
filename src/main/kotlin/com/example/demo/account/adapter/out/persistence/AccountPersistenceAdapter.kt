@@ -1,7 +1,7 @@
 package com.example.demo.account.adapter.out.persistence
 
-import com.example.demo.account.applicaiton.port.out.LoadAccountPort
-import com.example.demo.account.applicaiton.port.out.UpdateAccountStatePort
+import com.example.demo.account.application.port.out.LoadAccountPort
+import com.example.demo.account.application.port.out.UpdateAccountStatePort
 import com.example.demo.account.domain.Account
 import com.example.demo.common.PersistenceAdapter
 import jakarta.persistence.EntityNotFoundException

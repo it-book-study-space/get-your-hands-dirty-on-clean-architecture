@@ -1,10 +1,10 @@
-package com.example.demo.account.applicaiton.service
+package com.example.demo.account.application.service
 
-import com.example.demo.account.applicaiton.port.`in`.SendMoneyCommand
-import com.example.demo.account.applicaiton.port.`in`.SendMoneyUseCase
-import com.example.demo.account.applicaiton.port.out.AccountLock
-import com.example.demo.account.applicaiton.port.out.LoadAccountPort
-import com.example.demo.account.applicaiton.port.out.UpdateAccountStatePort
+import com.example.demo.account.application.port.`in`.SendMoneyCommand
+import com.example.demo.account.application.port.`in`.SendMoneyUseCase
+import com.example.demo.account.application.port.out.AccountLock
+import com.example.demo.account.application.port.out.LoadAccountPort
+import com.example.demo.account.application.port.out.UpdateAccountStatePort
 import com.example.demo.common.UseCase
 import jakarta.transaction.Transactional
 import java.time.LocalDateTime

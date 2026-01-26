@@ -1,4 +1,4 @@
-package com.example.demo.account.applicaiton.service
+package com.example.demo.account.application.service
 
 import com.example.demo.account.domain.Money
 import org.springframework.boot.context.properties.ConfigurationProperties

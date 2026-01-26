@@ -1,6 +1,6 @@
-package com.example.demo.account.applicaiton.service
+package com.example.demo.account.application.service
 
-import com.example.demo.account.applicaiton.port.out.AccountLock
+import com.example.demo.account.application.port.out.AccountLock
 import com.example.demo.account.domain.Account
 import org.springframework.stereotype.Component
 

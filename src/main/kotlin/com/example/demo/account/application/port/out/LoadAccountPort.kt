@@ -1,4 +1,4 @@
-package com.example.demo.account.applicaiton.port.out
+package com.example.demo.account.application.port.out
 
 import com.example.demo.account.domain.Account
 import java.time.LocalDateTime
